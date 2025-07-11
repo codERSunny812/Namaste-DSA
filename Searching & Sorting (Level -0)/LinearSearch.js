@@ -8,7 +8,7 @@ const index = function linearSearch(arr,target){
         if(arr[i] == target) return i;
     }
 
-    return -1
+    return -1;
 }
 
 
